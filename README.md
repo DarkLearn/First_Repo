@@ -1,3 +1,3 @@
 # Junior Repository
-## I am learning the concepts of git.
-##Thanks For visiting.
+### I am learning the concepts of git.
+### Thanks For visiting.
